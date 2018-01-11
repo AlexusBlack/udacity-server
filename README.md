@@ -2,8 +2,11 @@
 Repo for Udacity server configuration project
 
 IP address: 54.206.47.206
+
 Port: 2200
+
 Url: https://catalog.alexuslab.com/ behing CloudFlare proxy
+
 
 Software installed:
 - mc (midnight commander)
