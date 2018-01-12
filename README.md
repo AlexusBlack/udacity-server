@@ -45,6 +45,7 @@ Configuration made:
 - Create index.wsgi file to make python project compatible with wsgi
 - Configured domain 'catalog.alexuslab.com' to point at lightsale server
 - Configured CloudFlare crypt service to have https connection instead of http for secure Google Auth
+- Configured unattended-upgrades for auto upgrades of packages
 
 Resources used for reference:
 - http://flask.pocoo.org/docs/0.12/deploying/mod_wsgi/
